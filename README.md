@@ -8,7 +8,7 @@ Localization" (ACL 2020, long paper, [ACL](vslnet_acl),
 
 ## Note
 
-This is a fork of the [EGO4D episodic memory repo](https://github.com/EGO4D/episodic-memory) in which we compare VSLBase/VSLNet algorithms with different text encoders, pre-extracted features and hyperparameters. From the best performing algorithm we implement a extension in which we choose 50 most accurate queries with which we generate answers to the queries with natural language by using the LlaVA model. The implementation of the extension and model comparisions is in the [notebooks](notebooks) folder. **The report for our project is available [here](https://drive.google.com/file/d/1z1xweXQSNRRUsqiLZijN4sv6-YxBpv15/view?usp=drive_link).** The rest of this readme file is from the original repository. 
+This is a fork of the [EGO4D episodic memory repo](https://github.com/EGO4D/episodic-memory) in which we compare VSLBase/VSLNet algorithms with different text encoders, pre-extracted features and hyperparameters. From the best performing algorithm we implement a extension in which we choose 50 most accurate queries with which we generate answers to the queries with natural language by using the LlaVA model. The implementation of the extension and model comparisions is in the [notebooks](notebooks) folder. **The report for our project is available [here](https://drive.google.com/file/d/1z1xweXQSNRRUsqiLZijN4sv6-YxBpv15/view?usp=drive_link).** 
 
 
 ## Prerequisites
